@@ -14,8 +14,8 @@
   </app>
   <app>
     <Id_App>3</Id_App>
-    <Nom_App>Site Example</Nom_App>
+    <Nom_App>Site Example2</Nom_App>
     <Path_App>https://github.com/</Path_App>
-    <Image_App>https://github.com/Lakhdarben/Stage_APN/blob/master/uploads/téléchargement.jpg?raw=true</Image_App>
+    <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/t%C3%A9l%C3%A9chargement.png</Image_App>
   </app>
 </apps>
