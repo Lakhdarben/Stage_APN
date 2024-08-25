@@ -2,20 +2,20 @@
 <apps>
   <app>
     <Id_App>1</Id_App>
-    <Nom_App>Gmail</Nom_App>
-    <Path_App>https://mail.google.com/mail/u/0/#inbox</Path_App>
-    <Image_App>https://github.com/Lakhdarben/Stage_APN/blob/master/uploads/1722469332207.jpg?raw=true</Image_App>
+    <Nom_App>المجلس الشعبي الوطني</Nom_App>
+    <Path_App>https://www.apn.dz/</Path_App>
+    <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/t%C3%A9l%C3%A9chargement.png</Image_App>
   </app>
   <app>
     <Id_App>2</Id_App>
-    <Nom_App>Site Example</Nom_App>
-    <Path_App>https://github.com/</Path_App>
+    <Nom_App> طلب سيارة</Nom_App>
+    <Path_App>https://gdv.apn.gov.dz/</Path_App>
     <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/t%C3%A9l%C3%A9chargement.png</Image_App>
   </app>
   <app>
     <Id_App>3</Id_App>
-    <Nom_App>Site Example2</Nom_App>
-    <Path_App>https://github.com/</Path_App>
+    <Nom_App>منصة ارسل</Nom_App>
+    <Path_App>https://nc.apn.gov.dz/</Path_App>
     <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/t%C3%A9l%C3%A9chargement.png</Image_App>
   </app>
 </apps>
