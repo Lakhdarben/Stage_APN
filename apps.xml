@@ -14,8 +14,14 @@
   </app>
     <app>
     <Id_App>3</Id_App>
-    <Nom_App>المجلس الشعبي الوطني</Nom_App>
+    <Nom_App>موقع المجلس الشعبي الوطني</Nom_App>
     <Path_App>https://www.apn.dz/</Path_App>
+    <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/t%C3%A9l%C3%A9chargement.png</Image_App>
+  </app>
+    <app>
+    <Id_App>4</Id_App>
+    <Nom_App>منصة البريد الالكتروني</Nom_App>
+    <Path_App>https://mail.apn.gov.dz/</Path_App>
     <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/t%C3%A9l%C3%A9chargement.png</Image_App>
   </app>
 </apps>
