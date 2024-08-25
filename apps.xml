@@ -2,6 +2,12 @@
 <apps>
   <app>
     <Id_App>1</Id_App>
+    <Nom_App>تسجيل التدخلات</Nom_App>
+    <Path_App>https://inscription/</Path_App>
+    <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/t%C3%A9l%C3%A9chargement.png</Image_App>
+  </app>
+  <app>
+    <Id_App>2</Id_App>
     <Nom_App> طلب سيارة</Nom_App>
     <Path_App>https://gdv.apn.gov.dz/</Path_App>
     <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/t%C3%A9l%C3%A9chargement.png</Image_App>
