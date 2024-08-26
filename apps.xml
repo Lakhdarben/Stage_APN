@@ -16,13 +16,13 @@
     <Id_App>2</Id_App>
     <Nom_App>منصة ارسل</Nom_App>
     <Path_App>https://nc.apn.gov.dz/</Path_App>
-    <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/t%C3%A9l%C3%A9chargement.png</Image_App>
+    <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/APN.png</Image_App>
   </app>
     <app>
     <Id_App>3</Id_App>
     <Nom_App>منصة البريد الالكتروني</Nom_App>
     <Path_App>https://mail.apn.gov.dz/</Path_App>
-    <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/mail.png</Image_App>
+    <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/mail1.png</Image_App>
   </app>
   <app>
     <Id_App>4</Id_App>
@@ -46,7 +46,7 @@
     <Id_App>7</Id_App>
     <Nom_App>البحوث والدراسات التشريعية</Nom_App>
     <Path_App>http://10.10.1.188/sdel/</Path_App>
-    <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/بحوث.png</Image_App>
+    <Image_App>https://raw.githubusercontent.com/Lakhdarben/Stage_APN/master/uploads/بحوث1.png</Image_App>
   </app>
   <app>
     <Id_App>8</Id_App>
